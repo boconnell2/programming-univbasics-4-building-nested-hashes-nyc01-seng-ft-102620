@@ -12,9 +12,7 @@ def monopoly_with_second_tier
   # you built in the previous method. Run the tests. They will fail, but
   # they'll guide you in how to modify what you just did to have more
   # complexity.
-  - a key called `:pieces` set to `4`
-- a key called `:rent_in_dollars` set to an empty hash
-- a key called `:names` set to an empty hash
+
   base_hash
   main_hash[:railroads] = {
     :pieces => '4',
